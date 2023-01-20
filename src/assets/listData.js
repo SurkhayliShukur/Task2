@@ -1,8 +1,8 @@
-const angularImg = require('./images/angular-logo-240.png').default;
-const bootstrapImg = require('./images/bootstrap-logo-240.png').default;
-const css3Img = require('./images/css3-logo-240.png').default;
-const githubImg = require('./images/github-logo-240.png').default;
-const html5Img = require('./images/html5-logo-240.png').default;
+const angularImg = require('./images/angular-logo-240.png');
+const bootstrapImg = require('./images/bootstrap-logo-240.png');
+const css3Img = require('./images/css3-logo-240.png');
+const githubImg = require('./images/github-logo-240.png');
+const html5Img = require('./images/html5-logo-240.png');
 
 export const listData = [
     {
